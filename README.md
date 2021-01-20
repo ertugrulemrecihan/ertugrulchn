@@ -5,7 +5,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=coder942&show_icons=true&count_private=true&hide=contribs,issues" alt="ertugrulemrecihan's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder942&layout=compact&hide=html,css" alt="My Top Langs" sytyle="backgroun-color: red;"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder942&layout=compact&hide=html,css" alt="My Top Langs" sytyle="background-color: red;"/>
 </p>
 
 ## :octocat: How to Reach Me
