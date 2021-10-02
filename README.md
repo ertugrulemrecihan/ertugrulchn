@@ -11,7 +11,7 @@
 ## :octocat: How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Ertuğrul Emre Cihan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ertu%C4%9Frul-emre-cihan-75b1b91b1/)
+[![Linkedin Badge](https://img.shields.io/badge/coder942-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ertu%C4%9Frul-emre-cihan-75b1b91b1/)
 
 📌 My Blog Page: :point_right: http://meraklicoder.com
 <p> :email: Mail: cihanertugrulemre368@gmail.com
