@@ -23,11 +23,11 @@
 <p align="left">
 <a href="https://codepen.io/meraklicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meraklicoder" height="30" width="40" /></a>
 <a href="https://twitter.com/ertugrulemre61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ertugrulemre61" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ertuğrulemrecihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertuğrul emre cihan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ertuğrul-emre-cihan-75b1b91b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertuğrul emre cihan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/meraklicoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="meraklicoder" height="30" width="40" /></a>
 <a href="https://instagram.com/__._.ertugrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__._.ertugrul" height="30" width="40" /></a>
 <a href="https://medium.com/@meraklicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meraklicoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meraklicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meraklı coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCuHw50io9_GDkpQHdkOladg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meraklı coder" height="30" width="40" /></a>
 <a href="https://discord.gg/MERAKLI CODER#2723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MERAKLI CODER#2723" height="30" width="40" /></a>
 </p>
 
