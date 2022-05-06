@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrulchn&theme=discord" alt="ertugrulchn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ertugrulemre61" target="blank"><img src="https://img.shields.io/twitter/follow/meraklicoder?logo=twitter&style=for-the-badge" alt="ertugrulemre61" /></a> </p>
+<p align="left"> <a href="https://twitter.com/meaklicoder" target="blank"><img src="https://img.shields.io/twitter/follow/meraklicoder?logo=twitter&style=for-the-badge" alt="ertugrulemre61" /></a> </p>
 
 - 🔭 I’m currently working on [Programmers Blog](https://github.com/ertugrulchn/ASP.NET_Core_Blog_App)
 
