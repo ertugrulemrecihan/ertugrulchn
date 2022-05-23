@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrulchn&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrulchn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrulchn&theme=discord" alt="ertugrulchn" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ertugrulchn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/meaklicoder" target="blank"><img src="https://img.shields.io/twitter/follow/meraklicoder?logo=twitter&style=for-the-badge" alt="ertugrulemre61" /></a> </p>
+<p align="left"> <a href="https://twitter.com/meaklicoder" target="blank"><img src="https://img.shields.io/twitter/follow/meraklicoder?logo=twitter&style=for-the-badge" alt="meraklicoder" /></a> </p>
 
 - 🔭 I’m currently working on [Programmers Blog](https://github.com/ertugrulchn/ASP.NET_Core_Blog_App)
 
