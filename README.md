@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cihanertugrulemre368@gmail.com**
 
-- 📄 Know about my experiences [ertugrulemrecihan.com](ertugrulemrecihan.com)
+- 📄 Know about my experiences [ertugrulemrecihan.com.tr](ertugrulemrecihan.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
